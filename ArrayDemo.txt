@@ -1,0 +1,5 @@
+let oriDogs=["BullDOG","bEAGLE","lABRADOR"];
+let cars=new Array("American Curl","bENGAL");
+let brids=new Array("Falcons","Ducks","Flamingoes");
+let sliceDogs=oriDogs.Slice(1,2);
+console.lo(sliceDogs);
